@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Glegoo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Glegoo'), local('Glegoo-Regular'), url(http://themes.googleusercontent.com/static/fonts/glegoo/v1/lmpwkDpKuvVsDfwvMpuZVg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Megrim';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Megrim'), url(http://themes.googleusercontent.com/static/fonts/megrim/v4/wEAANqPdhC-qap-OX73FcA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 400;
+  src: local('MontserratAlternates-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserratalternates/v1/z2n1Sjxk9souK3HCtdHukiVz4wwEV01Tv2kxNh88JXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Nixie One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nixie One'), local('NixieOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/nixieone/v4/gQ0PT3rPU_Et2ExNz-ahmj8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poiret One'), local('PoiretOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/poiretone/v1/3Annd_XP-99FcGbOpm6fVBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Raleway Dots';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway Dots'), local('RalewayDots-Regular'), url(http://themes.googleusercontent.com/static/fonts/ralewaydots/v1/lhLgmWCRcyz-QXo8LCzTfBa1RVmPjeKy21_GQJaLlJI.woff) format('woff');
+}
